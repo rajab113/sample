@@ -65,6 +65,15 @@ transition: all 0.5s ease;
     }
 }
 
+.navbar-toggler {
+    color: #c6ff00 !important;
+}
+
+.navbar-toggler i {
+    color: #c6ff00;
+    font-size: 1.8rem;
+}
+
 .theme-btn{
 width:45px;
 height:45px;
